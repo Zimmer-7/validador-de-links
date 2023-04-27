@@ -5,4 +5,6 @@ lib capaz de ler arquivos de texto que possuem links e retornar o status dos res
 npm: validador-de-links
 ```
 
-na linha de comando insira: validaLink ./nome/do/arquivo.md para obter um objeto com o link e o status de cada um dos links do arquivo
+## como usar
+
+na linha de comando insira: <validaLink ./nome/do/arquivo.md> para obter um objeto com o link e o status de cada um dos links do arquivo
